@@ -25,7 +25,6 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 
 """File Information
 @file_name: youtube.py
-@author: Dylan "dyl-m" Monfret
 Script containing methods using YouTube API or doing scrapping / GET-requests on youtube.com.
 """
 
