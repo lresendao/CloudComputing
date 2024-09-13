@@ -7,7 +7,6 @@ pd.set_option('display.width', 250)
 
 """File Information
 @file_name: analytics.py
-@author: Dylan "dyl-m" Monfret
 Script containing methods to perform analytics on YouTube videos retrieved with youtube.py / main.py
 """
 
