@@ -1,5 +1,5 @@
 # Compemnuvem
-Projeto de Computação em Nuvem
+Cloud Computing Project
 
 
-Projeto rastreia as minhas inscrições do Youtube usando a plataforma do Google Cloud e do Youtube API V3
+The Project tracks my subscriptions on Youtube using Google Cloud platform and Youtube API V3
