@@ -12,7 +12,6 @@ import youtube
 
 """File Information
 @file_name: main.py
-@author: Dylan "dyl-m" Monfret
 Main process.
 """
 
