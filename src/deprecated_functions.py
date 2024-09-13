@@ -16,7 +16,6 @@ import youtube
 
 """File Information
 @file_name: deprecated_functions.py
-@author: Dylan "dyl-m" Monfret
 Deprecated functions. Won't be used at the moment.
 """
 
